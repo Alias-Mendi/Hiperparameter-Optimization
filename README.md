@@ -9,15 +9,11 @@ The Algorithms used are:
 
 
 Please make sure yo install 'requirements.txt'. *To quick install -> pip install -r requirements.txt*
-
+"
 Python version = 3.12.5
 
 The dataset is California Housing Dataset from Scikit Learn library, yo can download it from Kaggle in *https://www.kaggle.com/datasets/camnugent/california-housing-prices*
 
 I hope you find it interesting :)
 
-# Hiperparameter-Optimization
-# Hiperparameter-Optimization
-# Hiperparameter-Optimization
-# Hiperparameter-Optimization
-# Hiperparameter-Optimization
+
