@@ -1,19 +1,24 @@
-Hi this is my first project in Github. 
+Welcome to my first GitHub project!
 
-In this project we are going to search alternatives to the famous grd search. We will use optimization problem to search the best hiperparameters to tune the XGB Regressor.
+Project Goal:
 
-The Algorithms used are:
-    -> GA (Genetic Algorithm)
-    -> PSO (Particle Swarm Optimization )
-    -> NSGAII for muultivariable optimization
+In this project, we're exploring alternatives to traditional grid search for hyperparameter tuning in machine learning. We'll focus on the XGBoost Regressor and use optimization algorithms to find the best hyperparameter combinations.
 
+Algorithms:
 
-Please make sure yo install 'requirements.txt'. *To quick install -> pip install -r requirements.txt*
-"
-Python version = 3.12.5
+GA (Genetic Algorithm)
+PSO (Particle Swarm Optimization)
+NSGA-II (for multi-objective optimization)
+Prerequisites:
 
-The dataset is California Housing Dataset from Scikit Learn library, yo can download it from Kaggle in *https://www.kaggle.com/datasets/camnugent/california-housing-prices*
+Make sure you have the necessary libraries installed. You can quickly do this by running:
 
-I hope you find it interesting :)
+Bash
+pip install -r requirements.txt
+Usa el código con precaución.
 
+Important Notes:
 
+Python Version: This project uses Python 3.12.5.
+Dataset: We'll be working with the California Housing dataset. You can download it from Kaggle: https://www.kaggle.com/datasets/camnugent/california-housing-prices   
+I hope you enjoy this project and find it informative! Please let me know if you have any questions or suggestions.
