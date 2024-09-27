@@ -1,18 +1,18 @@
 Welcome to my first GitHub project!
 
-*Project Goal:*
+# Project Goal:
 
 In this project, we're exploring alternatives to traditional grid search for hyperparameter tuning in machine learning. We'll focus on the XGBoost Regressor and use optimization algorithms to find the best hyperparameter combinations.
 
-*Algorithms:*
+# Algorithms:
     -> GA (Genetic Algorithm)
     -> PSO (Particle Swarm Optimization)
     -> NSGA-II (for multi-objective optimization)
 
-*Prerequisites:*
+# Prerequisites:
 Make sure you have the necessary libraries installed. You can quickly do this by running:
 
-*Bash*
+# Bash
 pip install -r requirements.txt
 Usa el código con precaución.
 
