@@ -4,3 +4,4 @@ vscode/
 settings.json
 housing.csv
 mejor_modelo_xgb.pkl
+.venv
